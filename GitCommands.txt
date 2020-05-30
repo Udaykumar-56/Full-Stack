@@ -1,0 +1,270 @@
+    2  pwd
+    3  ls
+    4  cd Desktop
+    5  mkdir fullstckdev
+    6  touch full_stack.txt
+    7  ls
+    8  cat full_stack.txt
+    9  echo "full stack developer"> full_stack.txt
+   10  cat full_stack.txt
+   11  echo "HTML and CSS " > full_stack.txt
+   12  cat full_stack.txt
+   13  echo "javascript">>full_stack.txt
+   14  cat full_stack.txt
+   15  gedit full_stack.txt
+   16  nano full_stack.txt
+   17  nano full_stack.txt
+   18  cat full_stack.txt
+   19  nano Data.txt
+   20  ls
+   21  rm -f Data.txt
+   22  mkdir Git
+   23  ls
+   24  git init
+   25  git status
+   26  git add full_stack.txt
+   27  git status
+   28  git commit -m "First Commit"
+   29  git config --global user.mail 'talasilauday@gmail.com'
+   30  git config --global user.name 'Uday kumar-Gitam'
+   31  git config user.email
+   32  git config user.mail
+   33  git config user.name
+   34  nano full_stack.txt
+   35  git status
+   36  git add full_stack.txt
+   37  git commit -m"second commit"
+   38  git commit -m"Second Commit"
+   39  git log
+   40  git commit -m "Second Commit"
+   41  git add full_stack.txt
+   42  nano full_stack.txt
+   43  git add full_stack.txt
+   44  git commit -m "Second Commit"
+   45  mkdir full_stack
+   46  ls
+   47  mkdir Full-stack
+   48  ls
+   49  git remote -help
+   50  git remote add Full-stack https://github.com/Udaykumar-56/Full-stack
+   51  git remote show
+   52  git remote -v
+   53  git pull Full-stack master
+   54  git push Full-stack
+   55  git push --set-upstream Full-stack master
+   56  git pull Full-stack master
+   57  git push -u Full-stack
+   58  git push --set-upstream Full-stack master
+   59  git push -f --set-upstream Full-stack master
+   60  git commit -m
+   61  mkdir Full-stack
+   62  ls
+   63  git remote -help
+   64  git remote add Full-stack https://github.com/Udaykumar-56/Full-stack
+   65  git remote show
+   66  git remote -v
+   67  git pull Full-stack master
+   68  git push -u Full-stack
+   69  git push -u Full-stack
+   70  git push -u Full-stack
+   71  git push --set-upstream Full-stack master
+   72  git push --set-upstream Full-stack master
+   73  git push -f --set-upstream Full-stack master
+   74  nano full_stack.txt
+   75  nano data.txt
+   76  mkdir fullstckdev
+   77  cd fullstckdev/
+   78  ls
+   79  git status
+   80  git add HTML-DAY1/
+   81  git status
+   82  git commit- m "HTML-DAY1"
+   83  git commit -m "HTML-DAY1"
+   84  git pull Full-Stack master
+   85  git push Full-Stack master
+   86  git status
+   87  git add HTML-DAY1/
+   88  git status
+   89  git --version
+   90  pwd
+   91  ls
+   92  cd desktop
+   93  mkdir FullStackDev
+   94  touch Full-Stack.txt
+   95  ls
+   96  cat Full-Stack.txt
+   97  echo "Full Stack Developer" > Full-Stack.txt
+   98  cat Full-Stack.txt
+   99  echo "HTML and CSS" > Full-Stack.txt
+  100  cat Full-Stack.txt
+  101  echo "Java script" >> Full-Stack.txt
+  102  cat Full-Stack.txt
+  103  nano Full-Stack.txt
+  104  nano Full-Stack.txt
+  105  cat Full-Stack.txt
+  106  nano Full-Stack.txt
+  107  cat Full-Stack.txt
+  108  nano Data.txt
+  109  ls
+  110  mkdir git
+  111  ls
+  112  git init
+  113  git status
+  114  git add Full-Stack.txt
+  115  git status
+  116  git commit -m "First Commit"
+  117  git config --global user.email
+  118  git config user.name
+  119  git config user.email
+  120  nano Full-Stack.txt
+  121  git status
+  122  git add Full-Stack.txt
+  123  git commit -m "second commit"
+  124  git log
+  125  mkdir Full-Stack
+  126  ls
+  127  git remote -help
+  128  git remote add Full-Stack https://github.com/Udaykumar-56/Full-Stack
+  129  git remote show
+  130  git remote -v
+  131  git pull Full-Stack master
+  132  git push -u Full-Stack
+  133  git push --set-upstream Full-Stack master
+  134  git push --set-upstream Full-Stack master
+  135  ls
+  136  git remote help
+  137  git remote -help
+  138  git push --set-upstream Full-Stack master
+  139  git push -f --setupstream Full-Stack master
+  140  history
+  141  history 140 > git command.txt
+  142  ls
+  143  git status
+  144  git add git command.txt
+  145  git commit -m "git command"
+  146  git pull Full-Stack
+  147  git push -u Full-Stack
+  148  git status
+  149  git status
+  150  pwd
+  151  ls
+  152  cd desktop
+  153  mkdir FullStackDev
+  154  touch Full_Stack.txt
+  155  ls
+  156  cat Full_Stack.txt
+  157  echo "FullStackDeveloper" > Full_Stack.txt
+  158  cat Full_Stack.txt
+  159  echo "HTML and CSS" > Full_Stack.txt
+  160  cat Full_Stack.txt
+  161  echo "Java Script" >> Full_Stack.txt
+  162  cat Full_Stack.txt
+  163  nano Full_Stack.txt
+  164  cat Full_Stack.txt
+  165  nano Full_Stack.txt
+  166  cat Full_Stack.txt
+  167  nano Data.txt
+  168  ls
+  169  rm -f Data.txt
+  170  mkdir git
+  171  ls
+  172  git init
+  173  git status
+  174  git add Full_Stack.txt
+  175  git status
+  176  git commit -m "First Commit"
+  177  git config --global user.email 'talasilauday@gmail.com'
+  178  git config user.name 'Udaykumar-Gitam'
+  179  git config user.email
+  180  git config user.name
+  181  nano Full_Stack.txt
+  182  nano Full_Stack.txt
+  183  git status
+  184  git add Full_Stack.txt
+  185  git commit -m "Second Commit"
+  186  git log
+  187  mkdir Full_Stack
+  188  ls
+  189  git remote -help
+  190  git remote add Full_Stack https://github.com/Udaykumar-56/Full-Stack
+  191  git remote show
+  192  git remote -v
+  193  git remote show
+  194  git remote -v
+  195  git pull Full_Stack master
+  196  git push -u Full_Stack
+  197  git push -u Full_Stack
+  198  mkdir Full-Stack
+  199  ls
+  200  git remote add Full-Stack
+  201  git remote add Full-Stack https://github.com/Udaykumar-56/Full-Stack
+  202  git remote show
+  203  git remote -v
+  204  git pull Full-Stack master
+  205  git push -u Full-Stack
+  206  git push --set-upstream Full-Stack master
+  207  pwd
+  208  ls
+  209  ls -a
+  210  cd Desktop/
+  211  mkdir FullStackDev
+  212  ls
+  213  cd FullStackDev/
+  214  cd Full
+  215  cd FullStackDev/
+  216  touch Full_Stack.txt
+  217  ls
+  218  cat Full_Stack.txt
+  219  echo "Full Stack Developer" > Full_Stack.txt
+  220  cat Full_Stack.txt
+  221  echo "HTML and CSS" > Full_Stack.txt
+  222  cat Full_Stack.txt
+  223  echo "Java Script" >> Full_Stack.txt
+  224  cat Full_Stack.txt
+  225  nano Full_Stack.txt
+  226  cat Full_Stack.txt
+  227  nano Full_Stack.txt
+  228  cat Full_Stack.txt
+  229  nano Data.txt
+  230  ls
+  231  nano Data.txt
+  232  rm Data.txt
+  233  ls
+  234  mkdir Git
+  235  ls
+  236  git init
+  237  git status
+  238  git add Full_Stack.txt
+  239* git s
+  240  git commit -m "First Commit"
+  241  git config --global user.email 'talasilauday@gmail.com'
+  242  git config --global user.name 'UdayKumar-Gitam'
+  243  git config user.email
+  244  git config user.name
+  245  nano Full_Stack.txt
+  246  git status
+  247  git add Full_Stack.txt
+  248  git commit -m"Second Commit"
+  249  git log
+  250  mkdir Full-Stack
+  251  ls
+  252  git remote -help
+  253  git remote add Full-stack https://github.com/Udaykumar-56/Full-Stack
+  254  git remote show
+  255  git remote -v
+  256  git pull Full-Stack master
+  257  git push -u Full-Stack
+  258  git push --set-upstream Full-Stack master
+  259  git push -f --set-upstream Full-Stack mster
+  260  git push -f --set-upstream Full-Stack master
+  261  git push --set-upstream Full-Stack master
+  262  git push -f --set-upstream Full-Stack master
+  263  git remote add Full-Stack https://github.com/Udaykumar-56/Full-Stack
+  264  git remote show
+  265  git remote -v
+  266  git pull Full-Stack master
+  267  git push -u Full-Stack
+  268  git push --set-upstream Full-Stack master
+  269  git push -f --set-upstream Full-Stack master
+  270  history
+  271  history 270 > GitCommands.txt
