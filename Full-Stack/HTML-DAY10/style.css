@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Numans');
+
+
+
+
+
+
+
+html,body{
+
+
+
+background-image: url('https://images.pexels.com/photos/799443/pexels-photo-799443.jpeg?cs=srgb&dl=forced-perspective-photography-of-cars-running-on-road-below-799443.jpg&fm=jpg');
+
+
+
+background-size: cover;
+
+
+
+background-repeat: no-repeat;
+
+
+
+height: 100%;
+
+
+
+font-family: 'Numans', sans-serif;
+
+
+
+}
+
+
+
+
+
+
+
+.container{
+
+
+
+height: 100%;
+
+
+
+align-content: center;
+
+
+
+}
